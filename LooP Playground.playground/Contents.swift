@@ -23,8 +23,3 @@ for index in 1...5
 
 var num:Int = 10
 
-While true{
-    
-    print("true")
-    num=num-1
-}
