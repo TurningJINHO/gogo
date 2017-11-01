@@ -4,9 +4,11 @@ import UIKit
 
 var str = "Hello, playground"
 
-var someCharacter:Character = "d"
+var someCharacter:Character = "c"
+var somepeople:Character = "c"
+var some = "c"
 
-switch someCharacter {
+switch some {
 case "c":
     print("c")
 default:

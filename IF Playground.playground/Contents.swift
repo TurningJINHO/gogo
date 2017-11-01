@@ -5,6 +5,7 @@ import UIKit
 var str = "Hello, playground"
 
 var a:Int = 1
+a=a+9
 let b = 1
 
 if(a<4 && b<4)

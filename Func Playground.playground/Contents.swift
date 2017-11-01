@@ -21,3 +21,11 @@ func addTwoNumber2(arg1 para:Int, arg2 para2:Int) -> Int{
 
 let sum2 = addTwoNumber2(arg1: 1, arg2: 2)
 print(sum2)
+
+func TypeofBeer(_ one:String , _ two:String) -> String{
+    return one+two
+}
+
+TypeofBeer("카쓰", "클라우드")
+
+

@@ -7,7 +7,7 @@ var Numberofapple = 10
 
 print(str)
 
-let name = "진호킴"
+let name = "호호진킴"
 
 
 print(name)
@@ -20,4 +20,4 @@ var d:Double = 9.9
 var e:Bool = true
 
 print(Int(c))
-print(Int(round(d)))
+print(Double(round(d)))

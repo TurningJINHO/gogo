@@ -6,10 +6,10 @@ var str = "Hello, playground"
 
 var index:Int = 1
 
-for index in 1...10{
+for _ in 1...10{
     print("*")
     for count in 1...5{
-        print("%")
+        print(count)
     }
 }
 
